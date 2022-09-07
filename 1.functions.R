@@ -1,5 +1,5 @@
 # Written by Keaghan Yaxley
-
+#helper functions for stellar phylogenetics
 setwd("~/Dropbox/GALAH/")
 
 library(phytools)
